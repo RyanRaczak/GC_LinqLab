@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\bin\Debug\netcoreapp3.1\GC_LinqLab.exe
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\bin\Debug\netcoreapp3.1\GC_LinqLab.deps.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\bin\Debug\netcoreapp3.1\GC_LinqLab.runtimeconfig.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\bin\Debug\netcoreapp3.1\GC_LinqLab.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\bin\Debug\netcoreapp3.1\GC_LinqLab.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\bin\Debug\netcoreapp3.1\GC_LinqLab.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.dll
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.pdb
+C:\Users\RRaczak\source\repos\DevBuild\GC_LinqLab\GC_LinqLab\obj\Debug\netcoreapp3.1\GC_LinqLab.genruntimeconfig.cache
